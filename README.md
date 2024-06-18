@@ -17,7 +17,7 @@ MS Office: Word, Excel, PowerPoint.
 
 Data Processing and Analysis: R (tidyverse, ggplot2, caret, dplyr, e1071), Python (pandas, NumPy, matplotlib, seaborn, scikity-learn).
 
-Code Skills: C, Java, php, HTML
+Code Skills: C, Python, Java, php, HTML
 
 Statistics: descriptive, predictive.
 
