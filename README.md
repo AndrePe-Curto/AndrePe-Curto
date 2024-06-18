@@ -4,7 +4,9 @@
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/andr%C3%A9-guerreiro/)
 
 Master's student in Data Science with a fervent interest in unlocking the power of machine learning, deep learning, neural networks, and generative AI. 
+
 Fascinated by the potential of AI to revolutionize various industries and make a positive impact on the world. 
+
 Continuously expanding my knowledge and refining my skills through research, personal projects, and online courses.
 
 Analytical Tools:
