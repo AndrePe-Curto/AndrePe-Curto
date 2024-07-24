@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andre Guerreiro
 - 👀 I’m interested in Data Science/Data Analytics
 - 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/andr%C3%A9-guerreiro/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/andr%C3%A9-p%C3%A9-curto/)
 
 Master's student in Data Science with a fervent interest in unlocking the power of machine learning, deep learning, neural networks, and generative AI.
 Fascinated by the potential of AI to revolutionize various industries and make a positive impact on the world. 
