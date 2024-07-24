@@ -15,7 +15,7 @@ Data Visualization: Power BI Tableau.
 
 MS Office: Word, Excel, PowerPoint.
 
-Data Processing and Analysis: R (tidyverse, ggplot2, caret, dplyr, e1071), Python (pandas, NumPy, matplotlib, seaborn, scikity-learn).
+Data Processing and Analysis: R (tidyverse, ggplot2, caret, dplyr), Python (pandas, NumPy, matplotlib, seaborn, scikity-learn).
 
 Code Skills: C, Python, Java, php, HTML
 
